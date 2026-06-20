@@ -1,0 +1,6 @@
+{
+  "name": "Conference Booking",
+  "description": "Real-time Gyaan & Dharma conference room booking and scheduling board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
